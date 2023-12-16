@@ -1,5 +1,4 @@
 import Image from "next/image";
-
 import MenuIcon from "@mui/icons-material/Menu";
 import ShoppingCartIcon from "@mui/icons-material/ShoppingCart";
 import SearchIcon from "@mui/icons-material/Search";
@@ -61,7 +60,7 @@ function Header() {
         <p className="link hidden lg:inline-flex">Food & Grocery</p>
         <p className="link hidden lg:inline-flex">Prime</p>
         <p className="link hidden lg:inline-flex">Buy Again</p>
-        <p className="link hidden lg:inline-flex">Shopper Toolkit</p>
+        <p className="link hidden lg:inline-flex">Shopper&rsquo; Toolkit</p>
         <p className="link hidden lg:inline-flex">Health & Personal Care</p>
       </div>
     </header>
